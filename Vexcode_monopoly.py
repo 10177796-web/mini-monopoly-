@@ -134,5 +134,3 @@ move_forward(move_forward_callback_1)
 wait(15, MSEC)
 
 when_started1()
-
-
